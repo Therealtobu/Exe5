@@ -13334,7 +13334,6 @@ local function buildUI()
 	inst[788].BackgroundTransparency = 1
 	inst[788].BorderColor3 = Color3.new(0, 0, 0)
 	inst[788].BorderSizePixel = 0
-	inst[788].CameraFieldOfView = 1.2217306
 	inst[788].ClipsDescendants = false
 	inst[788].Draggable = false
 	inst[788].ImageColor3 = Color3.new(1, 1, 1)
@@ -13525,7 +13524,6 @@ local function buildUI()
 	inst[798].BackgroundTransparency = 1
 	inst[798].BorderColor3 = Color3.new(0, 0, 0)
 	inst[798].BorderSizePixel = 0
-	inst[798].CameraFieldOfView = 1.2217306
 	inst[798].ClipsDescendants = false
 	inst[798].Draggable = false
 	inst[798].ImageColor3 = Color3.new(1, 1, 1)
