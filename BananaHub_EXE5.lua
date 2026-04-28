@@ -2730,7 +2730,7 @@ local function ShootLoop()
     end
 end
 
-Library = loadstring(game:HttpGet("RAW_URL_CUA_exe5_adapter_lib.lua"))()
+Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Therealtobu/Exe5/refs/heads/main/exe5_adapter_lib.lua"))()
 
 Window = Library:CreateWindow({
     Title = "Banana Cat Hub",
